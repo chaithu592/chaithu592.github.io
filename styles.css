@@ -1,5 +1,8 @@
 
         .header{
+            padding: 10px;
+            display:flex;
+            justify-content:space-between;
             background-color: orange;
              color:blue;
         }
@@ -10,8 +13,11 @@
                 margin: 0px;
             }
             .container{
-                margin: 0px;
+                margin: 5px;
             }
             *{
                 margin: 0px;
+            }
+            .menu{
+                display:flex;
             }
